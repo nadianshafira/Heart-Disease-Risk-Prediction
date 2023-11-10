@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/alphiree/cardiovascular-diseases-risk-prediction-dataset
+https://huggingface.co/spaces/nadianshafira/Heart-Disease-Prediction
